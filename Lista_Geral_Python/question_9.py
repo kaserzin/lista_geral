@@ -3,5 +3,5 @@
 
 distancia = int(input("Informe a distancia percorrida: "))
 tempo = int(input(f"Informe o tempo em que percorreu {distancia}km: "))
-print(f"A distacia percorrida foi: {distancia}\nFoi percorrida em: {tempo}h\nEm uma velocidade de {(distancia / tempo):.1f}km/h\nEm m/s fica: {((distancia / tempo) / 3.6):.2f}m/s")
+print(f"A distacia percorrida foi: {distancia}km\nFoi percorrida em: {tempo}h\nEm uma velocidade de {(distancia / tempo):.1f}km/h\nEm m/s fica: {((distancia / tempo) / 3.6):.2f}m/s")
 

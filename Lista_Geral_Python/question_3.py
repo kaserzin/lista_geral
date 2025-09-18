@@ -1,4 +1,4 @@
-### screva um programa que leia o valor do lado de um quadrado e 
+### Escreva um programa que leia o valor do lado de um quadrado e 
 # calcule a sua área e o  seu perímetro
 
 lado = int(input("Informe o lado do quadrado: "))
