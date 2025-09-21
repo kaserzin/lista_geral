@@ -17,4 +17,5 @@ int main(){
 
     printf("A media ponderada e: %.1f", media);
 
+    return 0;
 }

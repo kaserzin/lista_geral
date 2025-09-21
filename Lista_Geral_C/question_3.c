@@ -10,4 +10,5 @@ int main(){
     area = lado * lado;
     printf("O valor do lado informado foi: %dcm\nO valor do perimetro e: %dcm\nO valor da area e: %dcm2", lado, perimetro, area);
 
+    return 0;
 }

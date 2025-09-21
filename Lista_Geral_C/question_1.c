@@ -11,4 +11,5 @@ int main(){
     media = (nota1 + nota2 + nota3) / 3;
     printf("As tres notas informadas foram: %d, %d, %d\nA media e: %f", nota1, nota2, nota3, media);
 
+    return 0;
 }
