@@ -9,7 +9,7 @@ int main(){
 
     printf("Informe a largura do terreno: ");
     scanf("%d", &largura);
-    printf("Informe o comprimento do terreno");
+    printf("Informe o comprimento do terreno: ");
     scanf("%d", &comprimeto);
 
     printf("O terreno de %dm2 vale: R$ %d", largura * comprimeto, largura * comprimeto *300);
