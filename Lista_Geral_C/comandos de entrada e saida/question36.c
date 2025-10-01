@@ -3,7 +3,6 @@
 //variáveis. O programa deve imprimir os valores das duas variáveis antes e após a
 //permutação.
 #include <stdio.h>
-#include <conio.h>
 
 int main(){
 

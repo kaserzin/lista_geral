@@ -4,7 +4,7 @@
 
 int main(){
 
-    int distancia, tempo;
+    float distancia, tempo;
     float velocidade_media;
 
     printf("Informe a distancia percorrida: ");
