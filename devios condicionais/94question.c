@@ -36,5 +36,5 @@ int main() {
     if(notas20 != 0) printf("R$ 20 : %d\n", notas20);
     if(notas10 != 0) printf("R$ 10 : %d\n", notas10);
 
-    return 0;
+    getch(); return 0;
 }
